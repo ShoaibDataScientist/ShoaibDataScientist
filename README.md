@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [http://www.webtrichain.com/](http://www.webtrichain.com/)
 
-- 💬 Ask me about **Data Science,Machine Learning,Deep learning,Python,R,Blockchain**
+- 💬 Ask me about **Data Science,Machine Learning,Deep learning,Large Language Models, NLP Python,R**
 
 - 📫 How to reach me **contact@shoaib.tech**
 
